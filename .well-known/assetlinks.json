@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.destory1984.oddity",
+      "sha256_cert_fingerprints": ["8A:EC:B3:2D:27:21:F5:20:B3:6A:10:07:E5:65:39:C3:44:F0:C9:06:52:03:D5:18:C3:70:97:BC:6E:C5:18:A7"]
+    }
+  }
+]
